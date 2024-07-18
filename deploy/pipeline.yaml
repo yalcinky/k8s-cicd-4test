@@ -4,7 +4,7 @@ metadata:
   name: yalcin-test-4cicd
   labels:
     app: cicd
-description: cicd delivery pipeline
+description: cicd delivery pipeline2
 serialPipeline:
   stages:
   - targetId: dev
